@@ -1,0 +1,19 @@
+.body{
+    display: flex;
+    padding-top: 20px;
+}
+.leftNav{
+    display: inline-block;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.rightNav{
+    position: absolute; 
+    margin-left: 1000px;
+}
+a{
+    text-decoration: none;
+}
+

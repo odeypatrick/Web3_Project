@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+  }
+.main{
+    display: flex;
+    margin-left: 100px;
+}
+.text{
+    margin-top: 150px;
+}
+
+.image{
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(103, 172, 196);
+    border: none;
+    border-color:  rgb(103, 172, 196);
+    color: white;
+    font-weight: bolder;
+
+}
+/*a:hover{
+    background-color: blue;
+}*/
