@@ -1,7 +1,7 @@
 import './App.css';
 import Nav from './Nav'
 import Main from "./Main"
-import Verify from './routes/Verify'
+import Verify from './routes/verify/Verify'
 
 import {
   BrowserRouter as Router,
