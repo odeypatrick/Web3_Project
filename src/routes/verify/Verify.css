@@ -3,23 +3,34 @@
     margin: 0 auto;
 }
 
-.flex {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.flex-center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.wrapper > div {
+.product-info {
     flex: 1;
 }
 
 .verify-page h1 {
     text-align: center;
-    padding-top: 20px;  
+}
+
+.product-info h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.scan {
+    margin-right: 20px;
+    overflow: hidden;
+    flex: 0.5;
+}
+
+.details .image {
+    width: 200px;
+    height: 200px;
+}
+
+.detail-item {
+    font-size: 16px;
+}
+
+.details img {
+    width: 200px;
 }

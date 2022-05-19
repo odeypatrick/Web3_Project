@@ -1,19 +1,23 @@
 .body{
-    display: flex;
-    padding-top: 20px;
-}
-.leftNav{
-    display: inline-block;
-    font-size: 15pt;
-    font-weight: bold;
-    margin-left: 100px;
+    padding: 15px;
 }
 
-.rightNav{
-    position: absolute; 
-    margin-left: 1000px;
+.leftNav{
+    font-size: 15pt;
+    font-weight: bold;
 }
+
+
+
+
 a{
     text-decoration: none;
+    color: #000;
+}
+
+.rightNav a {
+    padding: 15px;
+    color: #000;
+    font-weight: bold;
 }
 
